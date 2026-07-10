@@ -23,8 +23,8 @@
                 <div class="card h-100 border-0 shadow-sm p-4">
                     <h3 class="text-primary"><i class="fas fa-eye me-2"></i> Our Leadership</h3>
                     <p class="mt-3">
-                        Led by <strong>Dr. Jabeen Amin</strong>, SS Industries is built on a foundation of medical expertise and ethical business practices.
-                        Her vision is to create a manufacturing hub in Rawat that stands for trust and reliability in the pharma sector.
+                        Guided by <strong>our management team</strong>, SS Industries is built on a foundation of medical expertise and ethical business practices.
+                        Our vision is to create a manufacturing hub in Rawat that stands for trust and reliability in the pharma sector.
                     </p>
                 </div>
             </div>

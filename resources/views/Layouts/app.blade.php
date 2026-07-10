@@ -139,7 +139,7 @@
             </div>
             <div>
                 <a href="mailto:ssindustriespharma@gmail.com" class="me-4"><i class="fas fa-envelope me-1"></i> ssindustriespharma@gmail.com</a>
-                <a href="tel:+923055408278"><i class="fas fa-phone me-1"></i> +92 305-5408278</a>
+                <a href="tel:+923299967777"><i class="fas fa-phone me-1"></i> 0329-9967777</a>
             </div>
         </div>
     </div>
@@ -183,7 +183,7 @@
 
                 <div class="col-md-4 mb-4">
                     <h5>Get in Touch</h5>
-                    <p class="mb-2"><i class="fas fa-phone me-2"></i> +92 305-5408278</p>
+                    <p class="mb-2"><i class="fas fa-phone me-2"></i> 0329-9967777</p>
                     <p class="mb-2"><i class="fas fa-envelope me-2"></i> ssindustriespharma@gmail.com</p>
                     <p class="mb-2"><i class="fas fa-globe me-2"></i> www.ssindustries.com</p>
                 </div>

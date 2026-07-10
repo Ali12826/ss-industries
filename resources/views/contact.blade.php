@@ -32,7 +32,7 @@
 
                         <div class="mb-4">
                             <h5><i class="fas fa-phone me-2"></i> Phone</h5>
-                            <p>+92 305-5408278</p>
+                            <p>0329-9967777</p>
                         </div>
 
                         <div class="mb-4">

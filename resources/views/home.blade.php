@@ -25,8 +25,7 @@
                     We specialize in producing a wide range of medicines designed to meet the highest standards of safety and efficacy.
                 </p>
                 <p>
-                    Under the visionary leadership of our Chairperson, <strong>Dr. Jabeen Amin</strong>, we strive to bridge the gap between quality healthcare and accessibility.
-                    Our facility at RIE-5956 is equipped to handle diverse manufacturing needs for various therapeutic categories.
+                    Under the visionary leadership of our management team, we strive to bridge the gap between quality healthcare and accessibility.
                 </p>
                 <a href="{{ route('about') }}" class="btn btn-primary mt-3">Read More About Us</a>
             </div>
