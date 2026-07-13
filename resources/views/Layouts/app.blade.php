@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SS Industries - @yield('title', 'Pharmaceutical Excellence')</title>
 
-    <link rel="icon" href="{{ asset('images/favicon.png') }}" type="image/png">
+    <link rel="icon" href="{{ asset('images/favicon.png') }}?v=2" type="image/png">
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
@@ -198,7 +198,7 @@
             </div>
 
             <div class="footer-bottom text-center">
-                <p class="mb-0">&copy; {{ date('Y') }} SS Industries. Under the visionary leadership of <strong>Dr. Jabeen Amin</strong>.</p>
+                <p class="mb-0">&copy; {{ date('Y') }} SS Industries. All rights reserved.</p>
             </div>
         </div>
     </footer>

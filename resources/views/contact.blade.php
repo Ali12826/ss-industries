@@ -40,9 +40,7 @@
                             <p>ssindustriespharma@gmail.com</p>
                         </div>
 
-                        <div class="mt-4">
-                            <small>Chairperson: Dr. Jabeen Amin</small>
-                        </div>
+
                     </div>
                 </div>
             </div>
